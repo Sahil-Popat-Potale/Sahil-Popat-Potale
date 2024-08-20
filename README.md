@@ -38,7 +38,7 @@ I’m always eager to connect with fellow developers, learn from each other, and
 
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Twitter:** [Your Twitter Profile](#)
-- **Email:** [Your Email](mailto:your.email@example.com)
+- **Email:** sahilpopat97@gmail.com
 
 ## 🌟 Thank You
 
