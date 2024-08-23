@@ -6,14 +6,14 @@ Welcome to my little corner of GitHub! This space is a reflection of my passion,
 
 Here are some of the projects I’m most proud of:
 
-### 1. **[Project Name](#)**
-   - 🔧 **Tech Stack:** [Technology 1], [Technology 2], [Technology 3]
-   - ✨ **Highlights:** A brief description of the project's key features, challenges overcome, or what makes it special.
+### 1. **Number Rush**
+   - 🔧 **Tech Stack:** Android Studio, Java, Hash Mapping
+   - ✨ **Highlights:** Number Rush is a simple Android game developed in Java using Android Studio. The game challenges players to click numbers in a specific sequence, testing their memory and agility. Players start by clicking the number '1' and proceed sequentially up to '10'. A wrong click results in a loss, while completing the sequence leads to victory.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
-### 2. **[Project Name](#)**
-   - 🔧 **Tech Stack:** [Technology 1], [Technology 2], [Technology 3]
-   - ✨ **Highlights:** A brief description of the project's key features, challenges overcome, or what makes it special.
+### 2. **Piano App**
+   - 🔧 **Tech Stack:** Android Studio, Java, Media Player(record audio)
+   - ✨ **Highlights:** This is Piano App, it can record audio played on the app. user can practice there piano using this app.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
 ### 3. **[Project Name](#)**
