@@ -6,7 +6,7 @@ Welcome to my little corner of GitHub! This space is a reflection of my passion,
 
 Here are some of the projects I’m most proud of:
 
-### 1. **[Number Rush](#)**
+### 1. **[Number Rush](https://github.com/Sahil-Popat-Potale/Number_Rush)**
    - 🔧 **Tech Stack:** Android Studio, Java, Hash Mapping
    - ✨ **Highlights:** Number Rush is a simple Android game developed in Java using Android Studio. The game challenges players to click numbers in a specific sequence, testing their memory and agility. Players start by clicking the number '1' and proceed sequentially up to '10'. A wrong click results in a loss, while completing the sequence leads to victory.
    - 🌍 **Live Demo:** [Link to the demo](#)
@@ -16,9 +16,9 @@ Here are some of the projects I’m most proud of:
    - ✨ **Highlights:** This is Piano App, it can record audio played on the app. user can practice there piano using this app.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
-### 3. **[Project Name](#)**
-   - 🔧 **Tech Stack:** [Technology 1], [Technology 2], [Technology 3]
-   - ✨ **Highlights:** A brief description of the project's key features, challenges overcome, or what makes it special.
+### 3. **[HoloGraphic Morph](https://github.com/Sahil-Popat-Potale/HoloGraphic_Morph)**
+   - 🔧 **Tech Stack:** [Android Studio], [Java], [OpenGL]
+   - ✨ **Highlights:** This App provides the basic function for rendering an image or video in a holographic format. It splits the screen into four quadrants, applies transformations, and renders them using OpenGL.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
 ## 🌱 My Growth & Achievements
@@ -29,14 +29,14 @@ Here are some of the projects I’m most proud of:
 - **Milestone 3:** Brief description of a significant achievement or milestone.
 
 ### 📚 **Learning Path**
-- **Current Focus:** [Technology/Skill] - A brief note on what I'm currently learning and why.
+- **Current Focus:** [Web Technology] - Building/Developing web content and refining them.
 - **Future Goals:** A glimpse into the technologies and skills I aim to master next.
 
 ## 💬 Let's Connect
 
 I’m always eager to connect with fellow developers, learn from each other, and collaborate on exciting projects.
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [Sahil Popat Potale](https://www.linkedin.com/in/sahil-popat-potale/)
 - **Twitter:** [Your Twitter Profile](#)
 - **Email:** sahilpopat97@gmail.com
 
