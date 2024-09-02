@@ -37,7 +37,6 @@ Here are some of the projects I’m most proud of:
 I’m always eager to connect with fellow developers, learn from each other, and collaborate on exciting projects.
 
 - **LinkedIn:** [*Sahil Popat Potale*](https://www.linkedin.com/in/sahil-popat-potale/)
-- **Twitter:** [Your Twitter Profile](#)
 - **Email:** sahilpopat97@gmail.com
 
 ## `🌟 Thank You`
