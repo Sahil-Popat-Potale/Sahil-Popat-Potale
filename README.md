@@ -23,10 +23,12 @@ Here are some of the projects I’m most proud of:
 
 ## `🌱 My Growth & Achievements`
 
+<!--
 ### 🎯 **Achievements**
 - **Milestone 1:** Brief description of a significant achievement or milestone.
 - **Milestone 2:** Brief description of a significant achievement or milestone.
 - **Milestone 3:** Brief description of a significant achievement or milestone.
+-->
 
 ### 📚 **Learning Path**
 - **Current Focus:** ***`Web Technology`*** - Building/Developing web content and refining them.
