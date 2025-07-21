@@ -6,24 +6,24 @@ Welcome to my little corner of GitHub! This space is a reflection of my passion,
 
 Here are some of the projects I’m most proud of:
 
-### 1. **[*Number Rush*](https://github.com/Sahil-Popat-Potale/Number_Rush)**
+### 1. **[*Blogging-Platform*](https://github.com/Sahil-Popat-Potale/Blogging-platform)**
+   - 🔧 **Tech Stack:**  Java, JSP, Servlet, MySQL
+   - ✨ **Highlights:** This is a simple **Blogging Platform** developed in **`Java`** using **eclipse IDE**. The platform allows user to post and share there ideas, thoughts through bolgs to everyone out there, users can discuss there minds in **comment section**, then **admin page** for operator/owner to maintain order and much more.
+   - 🌍 **Live Demo:** [Link to the demo](#)
+
+### 2. **[*Number Rush*](https://github.com/Sahil-Popat-Potale/Number_Rush)**
    - 🔧 **Tech Stack:** Android Studio, Java, Hash Mapping
    - ✨ **Highlights:** Number Rush is a simple Android game developed in **`Java`** using **Android Studio**. The game challenges players to click numbers in a specific sequence, testing their **memory** and **agility**. Players start by clicking the Number '1' and proceed sequentially up to '10'. A wrong click results in a loss, while completing the sequence leads to victory.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
-### 2. **[*Git Cheat Sheet*](https://github.com/Sahil-Popat-Potale/Git-Cheat-Sheet)**
+### 3. **[*Git Cheat Sheet*](https://github.com/Sahil-Popat-Potale/Git-Cheat-Sheet)**
    - 🔧 **Tech Stack:** Git-Hub, Git Commands, Git Bash
    - ✨ **Highlights:** A concise and comprehensive Git cheat sheet to help you quickly reference and use the most common and help full Git commands. This cheat sheet is perfect for beginners and experienced developers alike, offering clear examples and descriptions of essential Git operations.
    - 🌍 **Live Demo:** [Link to the demo](https://github.com/Sahil-Popat-Potale/Git-Cheat-Sheet)
 
-### 3. **[*Piano App*](https://github.com/Sahil-Popat-Potale/pianoApp)**
+### 4. **[*Piano App*](https://github.com/Sahil-Popat-Potale/pianoApp)**
    - 🔧 **Tech Stack:** Android Studio, Java, Media Player(record audio)
    - ✨ **Highlights:** This is Piano App, it can **record audio** that is played on the app. user can **practice** there piano using this app.
-   - 🌍 **Live Demo:** [Link to the demo](#)
-
-### 4. **[*HoloGraphic Morph*](https://github.com/Sahil-Popat-Potale/HoloGraphic_Morph)**
-   - 🔧 **Tech Stack:** Android Studio, Java, OpenGL
-   - ✨ **Highlights:** This App provides the basic function for **rendering an image or video** in a holographic format. It splits the screen into four quadrants, applies transformations, and renders them using **OpenGL**.
    - 🌍 **Live Demo:** [Link to the demo](#)
 
 ## `🌱 My Growth & Achievements`
